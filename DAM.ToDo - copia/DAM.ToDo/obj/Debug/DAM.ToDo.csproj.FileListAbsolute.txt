@@ -1,0 +1,6 @@
+D:\Users\dam\source\repos\DAM.ToDo\DAM.ToDo\bin\Debug\DAM.ToDo.dll
+D:\Users\dam\source\repos\DAM.ToDo\DAM.ToDo\bin\Debug\DAM.ToDo.pdb
+D:\Users\dam\source\repos\DAM.ToDo\DAM.ToDo\obj\Debug\DAM.ToDo.csprojAssemblyReference.cache
+D:\Users\dam\source\repos\DAM.ToDo\DAM.ToDo\obj\Debug\DAM.ToDo.csproj.CoreCompileInputs.cache
+D:\Users\dam\source\repos\DAM.ToDo\DAM.ToDo\obj\Debug\DAM.ToDo.dll
+D:\Users\dam\source\repos\DAM.ToDo\DAM.ToDo\obj\Debug\DAM.ToDo.pdb
